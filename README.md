@@ -3,7 +3,7 @@
 **Material for the ASMS 2025 Bioinformatics Hub Workshop**  
 
 
-## PIPEX & MxDVP Hands-On Workshop  
+## PIPΣX & MxDVP Hands-On Workshop  
 This hands-on workshop replicates key steps in analyzing multiplexed tissue images and transitioning to single-cell deep proteomics:  
 - Segmenting tissue cells and annotating markers using PIPEX  
 - Exporting data for MS-based proteomics analysis  
@@ -29,7 +29,7 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 ### 2️⃣ PIPEX Walkthrough (40–50 min)  
 - Preprocessing for image quality  
 - Membrane-aware segmentation and marker annotation  
-- Export to TissUUmaps and pyLMD for proteomics  
+- Export to TissUUmaps for exploration and to pyLMD for proteomics  
 - Overview of segmentation, annotation, export, neighborhood analysis, and subtype discovery  
 
 ### 3️⃣ Single-Cell Proteomics Tutorial (40 min)  
@@ -43,7 +43,8 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 - Standardizing metadata and reference datasets  
 
 ### 5️⃣ Takeaways (2 min)  
-- **MxDVP** enables reproducible, scalable analysis from images to single-cell proteomics  
+- **MxDVP** enables reproducible, scalable analysis from images to single-cell proteomics.
+- **Preprints to check for more information:** [Multiplexed Deep Visual Proteomics](https://www.biorxiv.org/content/10.1101/2025.04.27.650857v1), [PIPΣX](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1) 
 
 ---
 
@@ -66,3 +67,9 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 - [ ] Install TissUUmaps: [installation guide](https://tissuumaps.github.io/installation/)  
 - [ ] Download the workshop data (link to be provided)
 - [ ] Check [CellProfiling GitHub](https://github.com/CellProfiling) page for [PIPEX](https://github.com/CellProfiling/pipex)
+
+---
+
+## Acknowledgments
+We thank all contributors for their invaluable work on PIPΣX. Special thanks to Frederic Ballllosera Navarro, who led software development.
+
