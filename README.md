@@ -65,4 +65,4 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 ## 🚀 Quick Start Checklist  
 - [ ] Install TissUUmaps: [installation guide](https://tissuumaps.github.io/installation/)  
 - [ ] Download the workshop data (link to be provided)
-- [ ] Check CellProfiling GitHub page for (PIPEX)[https://github.com/CellProfiling/pipex]
+- [ ] Check [CellProfiling GitHub](https://github.com/CellProfiling) page for [PIPEX](https://github.com/CellProfiling/pipex)
