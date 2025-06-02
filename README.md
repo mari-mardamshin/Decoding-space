@@ -49,7 +49,7 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 ---
 
 ## 🗂 Workshop Data  
-- **Multiplexed Imaging (Mx):** Sample tissues from the Human Protein Atlas [source="HPA"](https://www.proteinatlas.org/) (link to be provided)  
+- **Multiplexed Imaging (Mx):** Sample tissues from the Human Protein Atlas [source="HPA"](https://www.proteinatlas.org/about/licence) (link to be provided)  
 - **Mass Spectrometry (MS):** Publicly available single-cell proteomics dataset (link to be provided)  
 
 ---
@@ -70,6 +70,6 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 
 ---
 
-## Acknowledgments
+## 🌸 Acknowledgments
 We thank all contributors for their invaluable work on PIPΣX. Special thanks to Frederic Ballllosera Navarro, who led software development.
 
