@@ -45,7 +45,7 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 
 ### 5️⃣ Takeaways (2 min)  
 - **MxDVP** enables reproducible, scalable analysis from images to single-cell proteomics.
-- **Preprints to check for more information:** [Multiplexed Deep Visual Proteomics](https://www.biorxiv.org/content/10.1101/2025.04.27.650857v1), [PIPΣX](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1) 
+- **Preprints to check for more information:** [Multiplexed Deep Visual Proteomics](https://www.biorxiv.org/content/10.1101/2025.04.27.650857v1), [PIPΣX](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1), and [original DVP publication](https://www.nature.com/articles/s41587-022-01302-5). 
 
 ---
 
