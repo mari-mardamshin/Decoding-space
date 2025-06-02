@@ -35,10 +35,11 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 ### 3️⃣ Single-Cell Proteomics Tutorial (40 min)  
 - Preparing single-cell MS data  
 - QC, normalization, rare subtype discovery  
-- Analysis with alphapeptstats and scanpy  
+- Directions of single-cell analysis (i.e. using scanpy or developing generalized pipeline for SCP)
+- Single cell MS and spatial output data integration
 
 ### 4️⃣ Community Discussion (20–30 min)  
-- Challenges in spatial-MS integration  
+- Challenges in spatial-MS and multiomics integration  
 - Tool sharing, collaborative ideas  
 - Standardizing metadata and reference datasets  
 
