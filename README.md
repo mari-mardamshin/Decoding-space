@@ -5,7 +5,7 @@
 
 ## PIPΣX & MxDVP Hands-On Workshop  
 This hands-on workshop replicates key steps in analyzing multiplexed tissue images and transitioning to single-cell deep proteomics:  
-- Segmenting tissue cells and annotating markers using PIPEX  
+- Segmenting tissue cells and annotating markers using PIPΣX  
 - Exporting data for MS-based proteomics analysis  
 - Performing QC and in-depth single-cell proteomics  
 - Discussing challenges and opportunities in spatial-MS workflows  
@@ -26,7 +26,7 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 - Why integrate multiplexed imaging with single-cell proteomics?  
 - Challenges: data complexity, variability, QC, integration  
 
-### 2️⃣ PIPEX Walkthrough (40–50 min)  
+### 2️⃣ PIPΣX Walkthrough (40–50 min)  
 - Preprocessing for image quality  
 - Membrane-aware segmentation and marker annotation  
 - Export to TissUUmaps for exploration and to pyLMD for proteomics  
