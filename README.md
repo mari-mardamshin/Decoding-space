@@ -51,7 +51,7 @@ This hands-on workshop replicates key steps in analyzing multiplexed tissue imag
 
 ## 🗂 Workshop Data  
 - **Multiplexed Imaging (Mx):** Sample tissues from the Human Protein Atlas [source="HPA"](https://www.proteinatlas.org/about/licence) (link to be provided)  
-- **Mass Spectrometry (MS):** Publicly available single-cell proteomics dataset (link to be provided)  
+- **Mass Spectrometry (MS):** Publicly available single-cell proteomics dataset (data availble from the Paper, 2023)[https://pubmed.ncbi.nlm.nih.gov/37783884/]  
 
 ---
 
